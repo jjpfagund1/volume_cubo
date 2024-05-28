@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to right, rgb(109, 185, 255), rgb(57, 159, 255), rgb(0, 132, 255));
+    text-align: justify;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+input, button{
+    text-align: center;
+    border-radius: 30px;
+    font-size: 1.5rem;
+    background: linear-gradient(to right, rgb(0, 132, 255), rgb(57, 159, 255), rgb(109, 185, 255));
+}
+#resposta{
+    font-size: 1.5rem;
+}
+
